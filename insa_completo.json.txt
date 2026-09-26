@@ -1,0 +1,16 @@
+[
+  {
+    "nome": "Leite de Vaca, magro, UHT",
+    "calorias": 35.0,
+    "proteinas": 3.4,
+    "hidratos": 4.9,
+    "gorduras": 0.1
+  },
+  {
+    "nome": "Arroz branco, cozido",
+    "calorias": 130.0,
+    "proteinas": 2.7,
+    "hidratos": 28.2,
+    "gorduras": 0.3
+  }
+]
