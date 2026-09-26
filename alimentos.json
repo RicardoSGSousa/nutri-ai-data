@@ -1,0 +1,16 @@
+[
+  {
+    "nome": "Bolo de Bolacha Caseiro",
+    "calorias": 420,
+    "proteinas": 5.2,
+    "hidratos": 45.0,
+    "gorduras": 25.0
+  },
+  {
+    "nome": "Sopa de Legumes (S/ Batata)",
+    "calorias": 35,
+    "proteinas": 1.5,
+    "hidratos": 6.0,
+    "gorduras": 0.5
+  }
+]
